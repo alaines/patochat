@@ -1,6 +1,6 @@
 # PatoChat
 
-##Notice
+##Bienvenidos
 
 Mi primera aplicación en Android.
 
